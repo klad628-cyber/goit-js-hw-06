@@ -5,7 +5,9 @@ function getShippingCost(country) {
     case "China":
       price = 100;
       break;
-    case "Chile":git add .
+    case "Chile":
+      price = 250;
+      break;
     case "Jamaica":
       price = 120;
       break;
